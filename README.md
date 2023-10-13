@@ -1,3 +1,3 @@
 # PacMen Exercise
-![PacMan1](https://github.com/bhavyac18/pacmen/assets/53191128/6c165849-41d7-4d0e-af4d-6329562c0c89)
-## Description
+<img src="https://github.com/bhavyac18/pacmen/assets/53191128/9adfcf06-9f7e-4175-82db-e02efe4ad169" width="100px">
+### Description
