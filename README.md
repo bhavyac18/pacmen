@@ -12,7 +12,7 @@ To get started with the Pac-Man Project, follow these steps:
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 3. 'Add Pacmen' button adds new pacmen.
-4. 'Start Game' moves the pacmen
+4. 'Start Game' moves the pacmen.
 
 ### Image
 <img src="https://github.com/bhavyac18/pacmen/assets/53191128/2216b935-b6cb-4881-a2ec-f9723fe19c60" width="100px">
