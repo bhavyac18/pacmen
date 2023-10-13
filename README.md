@@ -15,3 +15,14 @@ To get started with the Pac-Man Project, follow these steps:
 
 ### Image
 <img src="https://github.com/bhavyac18/pacmen/assets/53191128/2216b935-b6cb-4881-a2ec-f9723fe19c60" width="100px">
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Add Maze
+- [ ] Add arrow keys to move Pac-Man around the maze.
+- [ ] Add Dots, Ghost and Fruits for pacmen to eat
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
