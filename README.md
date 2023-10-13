@@ -5,24 +5,27 @@ Welcome to the Pac-Man Project, where we've brought the classic arcade game to l
 ### Description
 Pac-Man, introduced to the gaming world in 1980, stands as a cherished arcade classic. At its heart, the game showcases a cheerful, circular character, Pac-Man, navigating a maze, dodging menacing ghosts, and gobbling up dots for points. Our project's mission is to faithfully revive this timeless gameplay experience while infusing it with modern touches, ensuring that the allure of the original endures.
 
-### Getting Started
+## How to Run
 
 To get started with the Pac-Man Project, follow these steps:
 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in your web browser.
-3. Add Pacmen button adds new pacmen.
-4. Start game moves the pacmen
+3. 'Add Pacmen' button adds new pacmen.
+4. 'Start Game' moves the pacmen
 
 ### Image
 <img src="https://github.com/bhavyac18/pacmen/assets/53191128/2216b935-b6cb-4881-a2ec-f9723fe19c60" width="100px">
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add Maze
-- [ ] Add arrow keys to move Pac-Man around the maze.
-- [ ] Add Dots, Ghost and Fruits for pacmen to eat
+- [ ] Add more mazes for diverse gameplay experiences.
+- [ ] Implement arrow key controls for fluid Pac-Man movement within the maze.
+- [ ] Introduce Dots, Ghosts, and Fruits as interactive elements to enhance the Pac-Man experience.
+- [ ] Enhance Pac-Man's navigation with the addition of arrow key controls and the inclusion of Dots, Ghosts, and Fruits for an authentic gaming adventure.
       
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
