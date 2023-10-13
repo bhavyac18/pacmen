@@ -1,6 +1,7 @@
+<a name="readme-top"></a>
 # PacMen Exercise
 Welcome to the Pac-Man Project, where we've brought the classic arcade game to life in the digital world. Join the fun!
-<a name="readme-top"></a>
+
 ### Description
 Pac-Man, introduced to the gaming world in 1980, stands as a cherished arcade classic. At its heart, the game showcases a cheerful, circular character, Pac-Man, navigating a maze, dodging menacing ghosts, and gobbling up dots for points. Our project's mission is to faithfully revive this timeless gameplay experience while infusing it with modern touches, ensuring that the allure of the original endures.
 
@@ -22,7 +23,5 @@ To get started with the Pac-Man Project, follow these steps:
 - [ ] Add Maze
 - [ ] Add arrow keys to move Pac-Man around the maze.
 - [ ] Add Dots, Ghost and Fruits for pacmen to eat
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
+      
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
